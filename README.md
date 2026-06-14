@@ -32,12 +32,6 @@ I am a student specializing in Data Engineering, passionate about architecting s
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
-
-* **[WIP] Vietnam E-Commerce Analytics Platform:** Architecting an end-to-end data platform processing large-scale product and review data from Shopee. Designing a Medallion architecture with Spark and Delta Lake, implementing NLP sentiment analysis, and building a full-stack Next.js/FastAPI real-time dashboard. Orchestrated via Airflow with dbt data modeling and Prometheus/Grafana monitoring.
-* **[Real-Time Crypto Data Lakehouse](https://github.com/Quan-min211/Crypto-DataLakehouse-Project):** Architected a Medallion architecture (Bronze/Silver/Gold) processing 50 crypto pairs using Binance WebSocket, Kafka, Spark Structured Streaming, and Delta Lake. Orchestrated with Airflow.
-* **Data Warehouse Project:** Designed Star Schemas and robust batch ETL processes using SSIS for large-scale retail logistics data.
-
 ### 📫 Let's Connect
 * **LinkedIn:** [Minh Quan Pham](https://www.linkedin.com/in/qu%C3%A2n-ph%E1%BA%A1m-minh)
 * **Email:** minhquan021105@gmail.com
