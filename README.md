@@ -33,5 +33,5 @@ I am a student specializing in Data Engineering, passionate about architecting s
 </p>
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Minh Quan Pham](www.linkedin.com/in/quân-phạm-minh-a2a364263)
+* **LinkedIn:** [Pham Minh Quan](www.linkedin.com/in/quân-phạm-minh-a2a364263)
 * **Email:** minhquan021105@gmail.com
